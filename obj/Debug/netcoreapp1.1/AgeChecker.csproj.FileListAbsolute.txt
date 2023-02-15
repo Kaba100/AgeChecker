@@ -1,0 +1,8 @@
+C:\Users\G(T)H-ISHOLA\Documents\AgeChecker\bin\Debug\netcoreapp1.1\AgeChecker.deps.json
+C:\Users\G(T)H-ISHOLA\Documents\AgeChecker\bin\Debug\netcoreapp1.1\AgeChecker.runtimeconfig.json
+C:\Users\G(T)H-ISHOLA\Documents\AgeChecker\bin\Debug\netcoreapp1.1\AgeChecker.runtimeconfig.dev.json
+C:\Users\G(T)H-ISHOLA\Documents\AgeChecker\obj\Debug\netcoreapp1.1\AgeChecker.AssemblyInfo.cs
+C:\Users\G(T)H-ISHOLA\Documents\AgeChecker\bin\Debug\netcoreapp1.1\AgeChecker.dll
+C:\Users\G(T)H-ISHOLA\Documents\AgeChecker\bin\Debug\netcoreapp1.1\AgeChecker.pdb
+C:\Users\G(T)H-ISHOLA\Documents\AgeChecker\obj\Debug\netcoreapp1.1\AgeChecker.dll
+C:\Users\G(T)H-ISHOLA\Documents\AgeChecker\obj\Debug\netcoreapp1.1\AgeChecker.pdb
